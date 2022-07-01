@@ -5,4 +5,8 @@ Built with Laravel 5.8
 2. Run `composer update`
 3. Setting the `.env` for database connection
 4. Run the migrations and seeder using `php artisan migrate` and `php artisan db:seed`
-5. Login using following credential email:password admin@gmail.com:123123123
+5. Login using following credential 
+    - Admin
+    email:password admin@gmail.com:123123123
+    - User
+    email:password user@gmail.com:123123123
